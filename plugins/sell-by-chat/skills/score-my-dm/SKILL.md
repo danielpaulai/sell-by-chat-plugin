@@ -23,3 +23,7 @@ Then: **SEND** (5 yes), **FIX FIRST** (3 to 4, show the rewritten version), or *
 Check instead: one question max, under 30 words, matches the prospect's pace, gives before asking, no pitch before the gap is in the prospect's own words, and if it is an ask, two concrete times. Same three verdicts.
 
 Total output: under 10 lines. This is a gate, not an essay.
+
+## Words
+
+Very simple words, the kind a 12 year old knows. Short sentences. If a word sounds like a business book, swap it for the word a friend would use. Never use an em dash.

@@ -14,3 +14,7 @@ Read `SELL-BY-CHAT.md`, `chat-pipeline.md` and `chat-scoreboard.csv` first. Then
 5. Update the pipeline stamps for everything drafted, and remind them to log tonight.
 
 Keep the whole output scannable: three sections, messages ready to copy, nothing else.
+
+## Words
+
+Very simple words, the kind a 12 year old knows. Short sentences. If a word sounds like a business book, swap it for the word a friend would use. Never use an em dash.

@@ -28,3 +28,7 @@ Never invent facts about a person. If the user gave no detail, keep the opener g
 ## Platform register
 
 Read `SELL-BY-CHAT.md` (current folder) for the founder's platform, give, ask and file paths. Match the platform's native register: LinkedIn is professional but human; Instagram is casual, emoji welcome, story replies count; Facebook is neighborly, Messenger tone; TikTok is fast and playful, reply in comments first, then DM. Same method everywhere, different doorbell.
+
+## Words
+
+Very simple words, the kind a 12 year old knows. Short sentences. If a word sounds like a business book, swap it for the word a friend would use. Never use an em dash.
