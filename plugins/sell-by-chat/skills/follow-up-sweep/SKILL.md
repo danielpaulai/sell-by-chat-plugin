@@ -16,7 +16,8 @@ Follow-ups are proof of commitment, not nagging. Most yeses arrive after the fif
    - **Day 7 silent**: one fresh thought about their world, warm, zero pressure, door left open.
    - **Older than 14 days**: suggest parking it and note it for the next hand-raising post instead.
 3. Draft every message, under 30 words each, in the user's `VOICE-DNA.md` voice (current folder, then home). Never reuse the same wording twice in one sweep.
-4. Never write anything that guilt-trips ("just bumping this", "did you see my message?"). Every touch must give something.
+4. Day 3 and day 7 messages still run the reply loop where a thread exists: nod at the last thing they said, give something, at most one light question.
+5. Never write anything that guilt-trips ("just bumping this", "did you see my message?"). Every touch must give something.
 
 Output: three sections (Day 1, Day 3, Day 7), each entry: name, the message ready to copy. End with the count: "X follow-ups tonight. Send them, then close the laptop."
 
