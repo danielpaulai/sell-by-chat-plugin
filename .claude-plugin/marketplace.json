@@ -1,0 +1,14 @@
+{
+  "name": "ai-founder-circle",
+  "owner": {
+    "name": "Daniel Paul",
+    "email": "danny@danielpaul.ai"
+  },
+  "plugins": [
+    {
+      "name": "sell-by-chat",
+      "source": "./plugins/sell-by-chat",
+      "description": "Your daily conversation engine: 25 warm chat starts, coached replies, follow-up sweeps and hand-raising posts, all in your own voice."
+    }
+  ]
+}
