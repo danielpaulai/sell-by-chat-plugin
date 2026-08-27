@@ -16,7 +16,7 @@ The ladder, in order. Diagnose where the conversation is and move it one step, n
 5. **Give delivered and appreciated**: the ask. Small, tied to their exact words, two concrete times: "Sounds fixable. Want to look at it together on a 15 minute call? Tuesday 11am or Wednesday 2pm?"
 6. **They went quiet**: follow-up by silence age. Day 1: light nudge on the thread. Day 3: send fresh value, no ask. Day 7: one thought about their world, no guilt-tripping. Most yeses come after the fifth touch.
 
-Every reply runs the reply loop, three beats in one message: NOD (acknowledge what they said, two to five words), GIVE (one useful thought, or their value offer from SELL-BY-CHAT.md), ASK (one question, exactly one). Shape every suggested reply this way unless the step is the booking ask itself.
+Every reply runs LVO, three beats in one message: LUBE (warm it up, a few words showing you read what they said), VALUE (one useful thought, or their free give from SELL-BY-CHAT.md), OFFER (open one door: one question, or, once the gap is in their words, the small booking ask). Shape every suggested reply this way.
 
 Rules for every message: one question per message maximum, under 30 words when possible, match their pace and length, mirror their words, never pitch before the gap is on the table in THEIR words. Never use an em dash.
 
