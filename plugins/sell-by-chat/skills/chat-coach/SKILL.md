@@ -28,6 +28,17 @@ Output format: the message ready to copy, then one short line: which step this i
 
 Read `SELL-BY-CHAT.md` (current folder) for the founder's platform, give, ask and file paths. Match the platform's native register: LinkedIn is professional but human; Instagram is casual, emoji welcome, story replies count; Facebook is neighborly, Messenger tone; TikTok is fast and playful, reply in comments first, then DM. Same method everywhere, different doorbell.
 
+## Brush-offs
+
+When the prospect pushes back (how much is it, send me info, not right now, is this sales), answer from `${CLAUDE_PLUGIN_ROOT}/references/objections.md`: feel seen, give, open one door. Never defend, never chase, never quote a price in the chat.
+
 ## Words
 
 Very simple words, the kind a 12 year old knows. Short sentences. If a word sounds like a business book, swap it for the word a friend would use. Never use an em dash.
+
+## Learn from what works
+
+Before drafting, read (when present in the plugin and folder):
+- `${CLAUDE_PLUGIN_ROOT}/references/voice-rules.md`: the sound. These rules beat everything.
+- `${CLAUDE_PLUGIN_ROOT}/references/example-bank.md`: imitate the shapes, never the words.
+- `chat-wins.md` in the working folder: the founder's own messages that got replies and booked calls. Their proven lines beat any fresh guess. Reuse their winning shapes first.

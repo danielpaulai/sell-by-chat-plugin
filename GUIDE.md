@@ -1,6 +1,6 @@
 # How to use the Sell By Chat plugin
 
-Eleven skills that run your daily chats in your own voice. Simple words, short guide.
+Twelve skills and a practice partner that run your daily chats in your own voice. Simple words, short guide.
 
 ## 1. Install it (once, two minutes)
 
@@ -37,15 +37,21 @@ Fastest way: in the Build Room, press **Take It To Claude** on the Scoreboard pa
 | `/scoreboard` | Logs sent, replies, calls. CSV opens in Excel. Syncs to Notion if connected. |
 | `/pipeline` | Where every chat stands. "Move Sarah to booked." "Who needs what today?" |
 | `/chat-ladder` | Draws the six-step method as The Chat Ladder visual in The Studio. |
+| `/first-week` | Just starting? The gentle 7-day ramp from 5 to 25 starts a day. |
+| "spar with me" | A practice partner plays your exact prospect, then scores you. Practice before real sends. |
 
-## 4. The rules it lives by
+## 4. It learns what works for YOU
+
+When you log a booked call, the scoreboard asks one question: "which message got that?" Your answer is saved to your wins bank, and from then on every draft starts from your own proven lines. The longer you use it, the more it sounds like you on your best day.
+
+## 5. The rules it lives by
 
 - Serve first. Message one never has a pitch, a link, or "quick call?" in it.
 - LVO in every reply. Lube: make them feel seen. Value: give something they can use, free, no catch. Offer: open one door.
 - You press send. It drafts and types, never sends, never runs unattended.
 - Your voice. Everything comes from your VOICE-DNA.md. Say "more like me" to rewrite.
 
-## 5. If something goes wrong
+## 6. If something goes wrong
 
 | It says | Do this |
 |---|---|

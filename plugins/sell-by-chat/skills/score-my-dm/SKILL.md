@@ -27,3 +27,10 @@ Total output: under 10 lines. This is a gate, not an essay.
 ## Words
 
 Very simple words, the kind a 12 year old knows. Short sentences. If a word sounds like a business book, swap it for the word a friend would use. Never use an em dash.
+
+## Learn from what works
+
+Before drafting, read (when present in the plugin and folder):
+- `${CLAUDE_PLUGIN_ROOT}/references/voice-rules.md`: the sound. These rules beat everything.
+- `${CLAUDE_PLUGIN_ROOT}/references/example-bank.md`: imitate the shapes, never the words.
+- `chat-wins.md` in the working folder: the founder's own messages that got replies and booked calls. Their proven lines beat any fresh guess. Reuse their winning shapes first.

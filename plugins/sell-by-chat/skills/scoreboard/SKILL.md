@@ -13,6 +13,10 @@ Source of truth: `chat-scoreboard.csv` in the current folder (`date,sent,replies
 2. Append the row to the CSV. If `SELL-BY-CHAT.md` records a Notion scoreboard database and Notion tools are available, add the same row there. The CSV opens directly in Excel, that IS their Excel sheet.
 3. Reply with the running picture in 3 lines: today vs target, streak, total reply rate vs the ~30% benchmark.
 
+## The wins bank (this is how the system learns)
+
+When the founder logs replies or a booked call, ask one question: "which message got that?" Take their answer and append it to `chat-wins.md` in the working folder, with one line of context (platform, what kind of person, opener or follow-up or ask). Over weeks this file becomes their personal bank of proven lines, and /daily-chats and /chat-coach draft from it first. Never skip this question when a call was booked.
+
 ## Reading the week ("read my week", or any Friday log)
 
 Benchmarks: ~30% reply rate over time, ~1 client per 100 chats started, target from SELL-BY-CHAT.md (default 25/day), follow-ups day 1, 3, 7.
