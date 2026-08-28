@@ -1,6 +1,6 @@
 # How to use the Sell By Chat plugin
 
-Ten skills that run your daily chats in your own voice. Simple words, short guide.
+Eleven skills that run your daily chats in your own voice. Simple words, short guide.
 
 ## 1. Install it (once, two minutes)
 
@@ -22,7 +22,7 @@ Fastest way: in the Build Room, press **Take It To Claude** on the Scoreboard pa
 | During the day | `/chat-coach` | Paste a stuck chat, get the one next right message in LVO shape. |
 | Evening, 1 min | `/scoreboard` | "Log my day: sent 25, replies 8, calls 1." Streak kept. Friday: honest diagnosis. |
 
-## 3. All ten skills
+## 3. All the skills
 
 | Skill | What it does |
 |---|---|
@@ -36,6 +36,7 @@ Fastest way: in the Build Room, press **Take It To Claude** on the Scoreboard pa
 | `/score-my-dm` | Paste a draft: SEND, FIX FIRST, or REWRITE, in two seconds. |
 | `/scoreboard` | Logs sent, replies, calls. CSV opens in Excel. Syncs to Notion if connected. |
 | `/pipeline` | Where every chat stands. "Move Sarah to booked." "Who needs what today?" |
+| `/chat-ladder` | Draws the six-step method as The Chat Ladder visual in The Studio. |
 
 ## 4. The rules it lives by
 
