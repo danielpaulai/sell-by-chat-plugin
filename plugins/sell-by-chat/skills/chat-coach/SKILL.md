@@ -7,6 +7,15 @@ description: Coach a live DM conversation to the next right message using the th
 
 The user pastes a conversation in progress. Your job: ONE next message, plus one line of why.
 
+First read `${CLAUDE_PLUGIN_ROOT}/references/chat-flow.md`, the full Chat Path (appear, open, drop, this-or-that, LVO, the gap in goal-first order, the need question, offer help, invite and confirm, the warm exit). Place the pasted conversation on that path and move it ONE step.
+
+Special moments to catch:
+- The gap: always destination first, current state second. If the founder asked "where are you now" first, tell them why the answer was polished.
+- After the gap: "What do you need most right now?" is the question that turns short answers into the long honest message.
+- After a booking link went out with no reply: the confirm move. "Let me know when you have found a time? I will leave the chat open here."
+- Offer under ~2k and the gap is clear: suggest the in-chat close, the simple note that ends "just reply I'M IN". No call needed.
+- The founder is about to reply with an essay to a two-line message: mirror rule, cut it to their length.
+
 The ladder, in order. Diagnose where the conversation is and move it one step, never two:
 
 1. **Opener sent, they replied**: ask Question 1, the easy one. Broad, zero pressure, one line to answer.

@@ -61,3 +61,27 @@ Why it fails: about the sender, jargon, pitch in message one, "quick call" to a 
 
 > "Hey, did you see my last message?"
 Why it fails: guilt with zero value. Deletes trust.
+
+## More shapes that work
+
+**The name-only opener (someone you already know who went quiet):**
+> Sarah!
+That is the whole message. People answer their own name. When they do, you are back in a chat.
+
+**The mutual-friend opener:**
+> Hey Darren, saw you are connected with my client Sean, we were on a call last night. And you are in Leeds too! Thought I would connect and say hi.
+Why it works: a real name, a real detail from last night, a local tie. No AI and no template can fake this, which is exactly why it lands.
+
+**The gap, in the right order (goal first, then now):**
+> Where do you want the business to be by December?
+> ...
+> And where is it at right now?
+Ask "where are you now" first and people polish the number. Goal first, honest answer second.
+
+**The confirm move (after sending a booking link):**
+> Do me a favour, let me know when you have found a time? I will leave the chat open here on my end.
+A sent link books nothing. A confirmed time books.
+
+**The warm exit with the return baked in:**
+> I have to bounce, school pickup. Can I message you next week to hear how the checklist went?
+You left first, like a busy friend, and next week's follow-up is already agreed. Ghosting risk gone.

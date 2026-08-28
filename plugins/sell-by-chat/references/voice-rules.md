@@ -11,6 +11,10 @@ Read this before writing anything the founder will send. These rules beat everyt
 - Never use an em dash. Use a comma, a full stop, or the word "and".
 - Emoji: fine on Instagram and TikTok, light on Facebook, one at most on LinkedIn. Never more than one per message.
 
+## Mirror their pace
+
+Match the other person, always. If they send three short messages, never answer with an essay. If they reply fast, you can reply fast. If they take a day, you take your time too. Same length, same tempo, same energy. Chasing speed reads as needy, and needy kills chats.
+
 ## Banned words and shapes
 
 Never write: leverage, utilize, optimize, facilitate, streamline, unlock, unleash, harness, elevate, empower, game-changer, dive in, circle back, touch base, reach out (say "message"), "I hope this finds you well", "quick question" as an opener, "just following up", "just bumping this", "did you see my message?".
