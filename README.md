@@ -1,6 +1,6 @@
 # Sell By Chat · The Conversation Engine plugin (v2)
 
-The AI Founder Circle daily chat engine for Claude Code. Ten skills, one method: stop selling, start serving. Works on LinkedIn, Instagram, Facebook and TikTok.
+The AI Founder Circle daily chat engine for Claude Code. Eleven skills, one method: stop selling, start serving. Works on LinkedIn, Instagram, Facebook and TikTok.
 
 ## Install (founders)
 
@@ -40,6 +40,7 @@ evening:  /scoreboard     → log sent, replies, calls. Friday: automatic week d
 | `/score-my-dm` | The two-second gate before anything gets sent. |
 | `/scoreboard` | CSV + Notion + Excel logging, streaks, and the Friday diagnosis. |
 | `/pipeline` | New → Awaiting → In conversation → Booked, one markdown file, Notion mirror. |
+| `/chat-ladder` | Draws the six-step method as The Chat Ladder in The Studio. |
 
 ## Data: yours, portable
 
