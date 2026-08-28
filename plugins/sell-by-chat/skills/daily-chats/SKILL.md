@@ -29,7 +29,7 @@ Never invent facts about a person. If the user gave no detail, keep the opener g
 
 ## Platform register
 
-Read `SELL-BY-CHAT.md` (current folder) for the founder's platform, give, ask and file paths. Match the platform's native register: LinkedIn is professional but human; Instagram is casual, emoji welcome, story replies count; Facebook is neighborly, Messenger tone; TikTok is fast and playful, reply in comments first, then DM. Same method everywhere, different doorbell.
+Read `SELL-BY-CHAT.md` (current folder) for the founder's platform, give, ask and file paths. Match the platform's native register: LinkedIn is professional but human; Instagram is casual, emoji welcome, story replies count; Facebook is neighborly, Messenger tone; TikTok is fast and playful, reply in comments first, then DM. Same method everywhere, different doorbell. Full per-platform playbook (LinkedIn, Instagram, WhatsApp, Facebook, TikTok: raised hands, sound, give, ask, quirks): `${CLAUDE_PLUGIN_ROOT}/references/platforms.md`. Read it before writing for a platform.
 
 ## Words
 

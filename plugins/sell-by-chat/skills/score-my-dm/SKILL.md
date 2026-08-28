@@ -34,3 +34,7 @@ Before drafting, read (when present in the plugin and folder):
 - `${CLAUDE_PLUGIN_ROOT}/references/voice-rules.md`: the sound. These rules beat everything.
 - `${CLAUDE_PLUGIN_ROOT}/references/example-bank.md`: imitate the shapes, never the words.
 - `chat-wins.md` in the working folder: the founder's own messages that got replies and booked calls. Their proven lines beat any fresh guess. Reuse their winning shapes first.
+
+## Platform register
+
+Read `SELL-BY-CHAT.md` for the founder's platform, then `${CLAUDE_PLUGIN_ROOT}/references/platforms.md` for that platform's raised hands, sound, give, ask and quirks. Write in that register.
