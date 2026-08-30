@@ -1,6 +1,6 @@
 # How to use the Sell By Chat plugin
 
-Twelve skills and a practice partner that run your daily chats in your own voice. Simple words, short guide.
+Twelve skills and a practice partner that run your daily chats in your own voice. Simple words, short guide. The full master guide with the method, the Chat Path, platforms and troubleshooting: https://sell-by-chat-session.vercel.app/master-guide.html
 
 ## 1. Install it (once, two minutes)
 
