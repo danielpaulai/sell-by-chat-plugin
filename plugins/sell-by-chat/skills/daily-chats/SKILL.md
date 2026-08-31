@@ -23,7 +23,7 @@ Before writing anything, look for `VOICE-DNA.md` in the current folder, then in 
 1. Ask for (or accept pasted) today's warm list: people who liked, commented, viewed their profile, or connected. Names plus what each person did. If they have fewer than 25, work with what they have and note the gap: fewer than 25 warm signals means they need to post more, not pitch colder.
 2. For each person, draft ONE opener, under 30 words, following the rules above. Vary the wording, never a template blast.
 3. Output as a numbered list: name, what they did, the message ready to copy.
-4. End with: "Send them now, then log today's number on your scoreboard."
+4. End with: "Send them now. Tonight: /scoreboard to log it. Someone replies? Paste it into /chat-coach."
 
 Never invent facts about a person. If the user gave no detail, keep the opener generic-warm (thank you for the engagement) rather than faking specifics.
 

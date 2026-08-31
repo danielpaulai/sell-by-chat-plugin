@@ -19,7 +19,7 @@ Follow-ups are proof of commitment, not nagging. Most yeses arrive after the fif
 4. Day 3 and day 7 messages still run LVO where a thread exists: lube (a warm nod at the last thing they said), value (give something), offer (at most one light question).
 5. Never write anything that guilt-trips ("just bumping this", "did you see my message?"). Every touch must give something.
 
-Output: three sections (Day 1, Day 3, Day 7), each entry: name, the message ready to copy. End with the count: "X follow-ups tonight. Send them, then close the laptop."
+Output: three sections (Day 1, Day 3, Day 7), each entry: name, the message ready to copy. End with the count and the next command: "X follow-ups tonight. Send them, log with /scoreboard, then close the laptop."
 
 ## Platform register
 

@@ -15,6 +15,8 @@ Read `SELL-BY-CHAT.md`, `chat-pipeline.md` and `chat-scoreboard.csv` first. Then
 
 Keep the whole output scannable: three sections, messages ready to copy, nothing else.
 
+**Always end with the next command:** "Send them now. Tonight: /scoreboard to log it. Lost? /next."
+
 ## Words
 
 Very simple words, the kind a 12 year old knows. Short sentences. If a word sounds like a business book, swap it for the word a friend would use. Never use an em dash.

@@ -11,7 +11,7 @@ Source of truth: `chat-scoreboard.csv` in the current folder (`date,sent,replies
 
 1. Take their numbers (sent, replies, calls, optional note). Today's date unless they say otherwise.
 2. Append the row to the CSV. If `SELL-BY-CHAT.md` records a Notion scoreboard database and Notion tools are available, add the same row there. The CSV opens directly in Excel, that IS their Excel sheet.
-3. Reply with the running picture in 3 lines: today vs target, streak, total reply rate vs the ~30% benchmark.
+3. Reply with the running picture in 3 lines: today vs target, streak, total reply rate vs the ~30% benchmark. End with: "Tomorrow morning: /morning."
 
 ## The wins bank (this is how the system learns)
 
