@@ -34,3 +34,16 @@ Read the draft out loud, in the founder's voice. Ask:
 3. Does it smell like a template, a newsletter, or a brand? (Any yes: rewrite.)
 
 If a draft fails any of the three, fix it silently and show only the fixed version. The founder should never have to say "this sounds like AI".
+
+## The deep pass (for posts and anything longer than a DM)
+
+The list above is the fast pass for short messages. For hand-raiser posts, follow-up value drops, and anything over ~50 words, also run the full anti-slop references in `anti-slop/`:
+
+- `anti-slop/lexical-blacklist.md`: the 50-section banned-word list, research-backed. Scan the draft against it AFTER writing, never while writing.
+- `anti-slop/structural-tells.md`: the shapes that give AI away (parallel triads, fake dialogue, pseudo-wisdom closers).
+- `anti-slop/humanization-playbook.md`: what to add back so it reads like a person.
+- `anti-slop/copy-standards.md`: the direct-response section applies to DMs and follow-ups.
+
+**The override that always wins:** the founder's genuine VOICE-DNA.md beats every list. If they really say "at the end of the day" in voice notes, it stays. Only word choices can be overridden this way. Specificity, structure and the three-second test are never overridable.
+
+**The core idea, from the engine:** slop is output where the effort to consume it exceeds the effort that went into making it. The job is not avoiding AI words. The job is refusing to ship the statistical average. A real detail about a real person is the strongest anti-slop move there is.
