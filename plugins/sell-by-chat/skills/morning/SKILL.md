@@ -5,6 +5,22 @@ description: The 15-minute morning routine, one command: pipeline check, today's
 
 # Morning: the whole routine in one run
 
+## The fit filter (ICP + FIT, both must pass)
+
+Before a single opener gets drafted for anyone, run two checks. Both must pass. Either fails: NO conversation. Skip them, list them under "Skipped" with a one-line reason, and never message them.
+
+**Check 1 · ICP:** does this person match who the founder helps (from the ICP file and SELL-BY-CHAT.md)? Right kind of person, right kind of business, right kind of problem. A raised hand from the wrong person is still the wrong person.
+
+**Check 2 · FIT:** is this a real conversation worth having?
+- A real human with a real business, not a bot, a spam account, or an empty profile
+- Not someone trying to sell TO the founder (pitch-slappers get skipped, not answered)
+- Not a competitor doing recon
+- Not someone the founder already talked to who said no or asked to be left alone
+- The raised hand is genuine: they engaged with the founder's actual content, not a mass-like sweep
+
+No exceptions for volume. Five right people beat twenty five wrong ones. The daily 25 is a ceiling, never a quota to fill with bad fits.
+
+
 Read `SELL-BY-CHAT.md`, `chat-pipeline.md` and `chat-scoreboard.csv` first. Then, in order:
 
 1. **Replies first**: list everyone in the pipeline who wrote back and needs an answer. For each, draft the next right message (the chat-coach ladder: easy question, deeper, commit, give, or the two-times ask).
