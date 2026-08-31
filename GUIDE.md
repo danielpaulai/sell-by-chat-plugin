@@ -4,7 +4,7 @@ Twelve skills and a practice partner that run your daily chats in your own voice
 
 ## 1. Install it (once, two minutes)
 
-Open Claude Code in the folder where your `VOICE-DNA.md` and ICP file live:
+Open Claude Code in the folder where your `VOICE-DNA.md` and ICP file live (no files yet? `/setup` builds starter ones with you):
 
 ```
 /plugin marketplace add danielpaulai/sell-by-chat-plugin
@@ -26,6 +26,7 @@ Fastest way: in the Build Room, press **Take It To Claude** on the Scoreboard pa
 
 | Skill | What it does |
 |---|---|
+| `/next` | Lost? It tells you the one next step and the exact command. |
 | `/setup` | One-time wiring: files, platform, give, ask, optional Notion. |
 | `/morning` | The whole morning routine in one command. |
 | `/daily-chats` | Paste notifications, get one personal opener per person. Zero pitch. |
@@ -66,3 +67,7 @@ When you log a booked call, the scoreboard asks one question: "which message got
 | Want the newest version | `/plugin marketplace update ai-founder-circle`, restart Claude Code. |
 
 The only number you control is how many chats you start. 25 a day, about 30 minutes. Roughly 3 in 10 reply, roughly 1 client per 100 chats. The scoreboard never lies, and that is exactly why it works.
+
+## Desktop vs web
+
+The plugin works best in the Claude Code desktop app or terminal. In the web version the install commands may not run; use the manual upload instead: download the zip from sell-by-chat-session.vercel.app/sell-by-chat-plugin.zip and use Upload a plugin, or run it on desktop.

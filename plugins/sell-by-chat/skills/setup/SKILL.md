@@ -5,7 +5,7 @@ description: One-time setup for the sell-by-chat system. Registers the founder's
 
 # Setup: two minutes, once
 
-The founder already has their Voice DNA and ICP. Do not interview them about voice. Just wire things up.
+Most founders already have their Voice DNA and ICP: just wire things up, no voice interview. Missing files are handled in step 1, never block.
 
 ## Flow
 
