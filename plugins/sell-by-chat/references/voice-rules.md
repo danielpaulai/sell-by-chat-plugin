@@ -35,3 +35,7 @@ Before any draft leaves:
 - LUBE: make them feel seen. Step into their world, reflect the exact thing they said.
 - VALUE: give something they can use. The founder's lead magnet, a tip, a template. Free, no sign-up, no catch.
 - OFFER: open one door. One question, or, once the gap is out in their words, the small ask with two real times.
+
+## The final gate
+
+After voice matching, every draft goes through `de-ai.md` in this folder. That pass always runs last and always wins.

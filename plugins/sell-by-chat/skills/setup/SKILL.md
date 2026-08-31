@@ -30,3 +30,7 @@ Start with number 1, right now. It takes five minutes.
 ```
 
 Never end setup without this card. The founder must always know the exact next command.
+
+## The de-AI pass (always last)
+
+Before showing ANY draft, run it through `${CLAUDE_PLUGIN_ROOT}/references/de-ai.md`: kill the AI cliches, corporate words, hedging and robot shapes, then the three-second test (would a friend type this on their phone? could it have gone to 200 people? does it smell like a template?). Fix failures silently. The founder must never have to say "this sounds like AI".

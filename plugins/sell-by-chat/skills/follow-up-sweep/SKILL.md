@@ -35,3 +35,7 @@ Before drafting, read (when present in the plugin and folder):
 - `${CLAUDE_PLUGIN_ROOT}/references/voice-rules.md`: the sound. These rules beat everything.
 - `${CLAUDE_PLUGIN_ROOT}/references/example-bank.md`: imitate the shapes, never the words.
 - `chat-wins.md` in the working folder: the founder's own messages that got replies and booked calls. Their proven lines beat any fresh guess. Reuse their winning shapes first.
+
+## The de-AI pass (always last)
+
+Before showing ANY draft, run it through `${CLAUDE_PLUGIN_ROOT}/references/de-ai.md`: kill the AI cliches, corporate words, hedging and robot shapes, then the three-second test (would a friend type this on their phone? could it have gone to 200 people? does it smell like a template?). Fix failures silently. The founder must never have to say "this sounds like AI".

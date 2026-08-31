@@ -35,3 +35,7 @@ Read `SELL-BY-CHAT.md` for the founder's platform, then `${CLAUDE_PLUGIN_ROOT}/r
 ## The two must-have files
 
 Before drafting anything, check VOICE-DNA.md and the ICP file exist in this folder. Missing? Stop and say: "Run /setup first, it builds these with you in ten minutes. Nothing here works well without them." Never draft from guesses.
+
+## The de-AI pass (always last)
+
+Before showing ANY draft, run it through `${CLAUDE_PLUGIN_ROOT}/references/de-ai.md`: kill the AI cliches, corporate words, hedging and robot shapes, then the three-second test (would a friend type this on their phone? could it have gone to 200 people? does it smell like a template?). Fix failures silently. The founder must never have to say "this sounds like AI".

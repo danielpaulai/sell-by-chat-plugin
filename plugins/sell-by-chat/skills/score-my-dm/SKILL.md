@@ -15,6 +15,7 @@ Five checks, one line each, YES or NO with the fix baked into the reason:
 3. Sounds like a person, not a template
 4. Exactly one easy question at the end
 5. Zero pitch, zero link, zero call ask
+6. Zero AI smell: no cliches, no corporate words, no robot shapes (the de-ai.md list)
 
 Then: **SEND** (5 yes), **FIX FIRST** (3 to 4, show the rewritten version), or **REWRITE** (worse, show the rewritten version). The rewrite matches their `VOICE-DNA.md` and their platform's register (from `SELL-BY-CHAT.md`).
 
@@ -38,3 +39,7 @@ Before drafting, read (when present in the plugin and folder):
 ## Platform register
 
 Read `SELL-BY-CHAT.md` for the founder's platform, then `${CLAUDE_PLUGIN_ROOT}/references/platforms.md` for that platform's raised hands, sound, give, ask and quirks. Write in that register.
+
+## The de-AI pass (always last)
+
+Before showing ANY draft, run it through `${CLAUDE_PLUGIN_ROOT}/references/de-ai.md`: kill the AI cliches, corporate words, hedging and robot shapes, then the three-second test (would a friend type this on their phone? could it have gone to 200 people? does it smell like a template?). Fix failures silently. The founder must never have to say "this sounds like AI".
