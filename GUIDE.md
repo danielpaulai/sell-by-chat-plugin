@@ -112,4 +112,4 @@ The only number you control is how many chats you start. 25 a day, about 30 minu
 
 ## Desktop vs web
 
-The plugin works best in the Claude Code desktop app or terminal. In the web version the install commands may not run; use the manual upload instead: download the zip from sell-by-chat-session.vercel.app/sell-by-chat-plugin.zip and use Upload a plugin, or run it on desktop.
+The plugin works best in the Claude Code desktop app or terminal. In the web version the install commands may not run; use the manual upload instead: download the zip from sell-by-chat-session.vercel.app/sell-by-chat-plugin.zip (keep it zipped), then Settings, Plugins, Upload a plugin, pick the zip.
