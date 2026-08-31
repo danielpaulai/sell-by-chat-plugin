@@ -52,6 +52,10 @@ The five moves and the Chat Path never change. What changes per platform: what a
 - **The ask:** move it off-platform early: "easier to talk properly on a call or WhatsApp, want to?"
 - **Quirks:** DMs may be restricted between non-mutuals, the comment thread does more of the early work here than on any other platform.
 
+## Pacing, on every platform
+
+25 starts a day is the ceiling, everywhere. 30 to 90 seconds between sends, varied, never a fixed rhythm. A break every 8 to 10 messages. New accounts: half of everything. Fast and regular looks like a machine, and machines get restricted.
+
 ## Moving someone between platforms
 
 The chat follows the person, not the app. When a conversation gets real on a public platform, offering the warmer channel is itself a trust move: "this is easier on WhatsApp if you want, here is my number." Record the move in the pipeline (their entry keeps one home platform, note the switch). Never move someone colder than they are: TikTok to DM is fine, LinkedIn to WhatsApp needs a reason.
