@@ -31,3 +31,7 @@ Before drafting, read (when present in the plugin and folder):
 ## Platform register
 
 Read `SELL-BY-CHAT.md` for the founder's platform, then `${CLAUDE_PLUGIN_ROOT}/references/platforms.md` for that platform's raised hands, sound, give, ask and quirks. Write in that register.
+
+## The two must-have files
+
+Before drafting anything, check VOICE-DNA.md and the ICP file exist in this folder. Missing? Stop and say: "Run /setup first, it builds these with you in ten minutes. Nothing here works well without them." Never draft from guesses.

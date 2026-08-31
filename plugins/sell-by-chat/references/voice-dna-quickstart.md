@@ -2,6 +2,23 @@
 
 Never block setup because the file is missing. Build a starter Voice DNA in 10 minutes, right here.
 
+## Option 0 · Extract it from Claude itself (fastest)
+
+If the founder has been using Claude for a while, their voice is already in the conversation history. Have them run this prompt in the Claude app (claude.ai, where memory lives), then save the output as VOICE-DNA.md in this folder:
+
+```
+You know me from all our conversations. Build my VOICE-DNA.md from them.
+
+Look at how I actually write and talk in our chats, and write a one-page file with:
+1. My sound: formal or casual, short or long sentences, my rhythm
+2. 10 words and phrases I actually use, with real examples quoted from our chats
+3. How I greet people and how I sign off
+4. My fillers and my emoji habits
+5. 5 things I would NEVER say
+Use only real evidence from our conversations. Quote me. No inventing.
+Output it as one markdown file called VOICE-DNA.md.
+```
+
 ## Option 1 · They have the Purely Personal brain
 
 If their business brain or Purely Personal files are reachable (a connected server, or a folder they can point to), pull voice and ICP from there and write VOICE-DNA.md into this folder. Confirm what you found in three lines and move on.

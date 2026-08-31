@@ -14,6 +14,25 @@ Open Claude Code in the folder where your `VOICE-DNA.md` and ICP file live (no f
 
 Fastest way: in the Build Room, press **Take It To Claude** on the Scoreboard page and paste the message it copies. That does the whole setup.
 
+## No Voice DNA yet? One prompt builds it
+
+Run this in the Claude app (claude.ai, where your chat history lives), save the answer as `VOICE-DNA.md` in your folder:
+
+```
+You know me from all our conversations. Build my VOICE-DNA.md from them.
+
+Look at how I actually write and talk in our chats, and write a one-page file with:
+1. My sound: formal or casual, short or long sentences, my rhythm
+2. 10 words and phrases I actually use, with real examples quoted from our chats
+3. How I greet people and how I sign off
+4. My fillers and my emoji habits
+5. 5 things I would NEVER say
+Use only real evidence from our conversations. Quote me. No inventing.
+Output it as one markdown file called VOICE-DNA.md.
+```
+
+**Order matters:** install → both files in the folder → `/setup` (this is where Notion / Excel get created) → practice → `/morning`. Never `/morning` before `/setup`.
+
 ## 2. Your day, three commands
 
 | When | Type | What happens |

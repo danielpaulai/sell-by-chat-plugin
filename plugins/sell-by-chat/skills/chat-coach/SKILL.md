@@ -51,3 +51,7 @@ Before drafting, read (when present in the plugin and folder):
 - `${CLAUDE_PLUGIN_ROOT}/references/voice-rules.md`: the sound. These rules beat everything.
 - `${CLAUDE_PLUGIN_ROOT}/references/example-bank.md`: imitate the shapes, never the words.
 - `chat-wins.md` in the working folder: the founder's own messages that got replies and booked calls. Their proven lines beat any fresh guess. Reuse their winning shapes first.
+
+## The two must-have files
+
+Before drafting anything, check VOICE-DNA.md and the ICP file exist in this folder. Missing? Stop and say: "Run /setup first, it builds these with you in ten minutes. Nothing here works well without them." Never draft from guesses.

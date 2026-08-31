@@ -9,7 +9,7 @@ Most founders already have their Voice DNA and ICP: just wire things up, no voic
 
 ## Flow
 
-1. Ask where their files live (or find them): `VOICE-DNA.md` and any ICP / business-brain file, in the current folder or home folder. **Missing one or both? Never block.** Follow `${CLAUDE_PLUGIN_ROOT}/references/voice-dna-quickstart.md`: pull from their Purely Personal brain if reachable, build from pasted real writing, or run the 5-question interview. Ten minutes, then continue.
+1. Ask where their files live (or find them): `VOICE-DNA.md` and any ICP / business-brain file, in the current folder or home folder. **Both files are a MUST before anything else works. But never send them away:** Follow `${CLAUDE_PLUGIN_ROOT}/references/voice-dna-quickstart.md`: pull from their Purely Personal brain if reachable, build from pasted real writing, or run the 5-question interview. Ten minutes, then continue. Do NOT move to step 2 until both VOICE-DNA.md and an ICP file exist in this folder. Fastest path: the extraction prompt in that reference, run in the Claude app where their chat history lives.
 2. Ask their **main platform**: LinkedIn, Instagram, Facebook, or TikTok. One platform to start.
 3. Ask their **give** (the free useful thing they send) and their **ask** (the booking line) in one line each, or pull them from their files if present.
 4. Create `SELL-BY-CHAT.md` in the current folder recording: paths to voice and ICP files, platform, give, ask, daily target (default 25). Every other skill reads this file first.
