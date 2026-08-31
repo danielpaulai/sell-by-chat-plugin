@@ -7,16 +7,22 @@ Never block setup because the file is missing. Build a starter Voice DNA in 10 m
 If the founder has been using Claude for a while, their voice is already in the conversation history. Have them run this prompt in the Claude app (claude.ai, where memory lives), then save the output as VOICE-DNA.md in this folder:
 
 ```
-You know me from all our conversations. Build my VOICE-DNA.md from them.
+You know me from every conversation we have ever had. Build my VOICE-DNA.md from that evidence.
 
-Look at how I actually write and talk in our chats, and write a one-page file with:
-1. My sound: formal or casual, short or long sentences, my rhythm
-2. 10 words and phrases I actually use, with real examples quoted from our chats
-3. How I greet people and how I sign off
-4. My fillers and my emoji habits
-5. 5 things I would NEVER say
-Use only real evidence from our conversations. Quote me. No inventing.
-Output it as one markdown file called VOICE-DNA.md.
+Study how I actually write and talk across our chats, then write the file with these sections:
+
+1. MY SOUND: casual or formal, warm or dry, fast or slow. How long my sentences run (count a few). How I open a message and how I end one.
+2. MY WORDS: the 15 words and phrases I use most, each with a real quote from our chats. Include my fillers ("so", "okay", "you know", whatever I actually use) and how often they show up.
+3. MY MOVES: how I explain things (stories? numbers? examples?), how I show excitement, how I disagree, how I ask for things. Quote me doing each one.
+4. GREETINGS AND GOODBYES: exactly how I say hello and how I sign off, per situation (friend, client, stranger).
+5. PUNCTUATION AND EMOJI: my real habits. Dashes or commas, exclamation marks or not, which emoji and how often.
+6. NEVER: 10 things I would never write. Words that are not me, tones that are not me, shapes that are not me.
+7. WRITE LIKE ME: finish with 5 short rules someone could follow to sound like me, and then prove it: take these three lines and rewrite them in my voice:
+   - "I hope this message finds you well. I wanted to reach out regarding your recent post."
+   - "Thank you for your interest. I will send over the information shortly."
+   - "Just following up on my previous message."
+
+Rules: only real evidence from our conversations. Quote me at least 12 times. If you are not sure about something, leave it out instead of guessing. No inventing, no flattering. Output everything as one markdown file called VOICE-DNA.md.
 ```
 
 ## Option 1 · They have the Purely Personal brain
