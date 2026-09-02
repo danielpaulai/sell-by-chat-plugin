@@ -41,7 +41,7 @@ evening:  /scoreboard     → log sent, replies, calls. Friday: automatic week d
 | `/scoreboard` | CSV + Notion + Excel logging, streaks, and the Friday diagnosis. |
 | `/pipeline` | New → Awaiting → In conversation → Booked, one markdown file, Notion mirror. |
 | `/first-week` | The gentle 7-day ramp from 5 to 25 starts a day. |
-| `sparring-partner` agent | Role-plays your exact prospect for practice, then scores you. Say "spar with me". |
+| `sparring-partner` agent | Role-plays your exact prospect for practice, then scores you. Type /spar. |
 
 ## How it gets better every week
 

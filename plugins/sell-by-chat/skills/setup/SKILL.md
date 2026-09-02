@@ -20,7 +20,7 @@ Most founders already have their Voice DNA and ICP: just wire things up, no voic
 ```
 Setup done. Here is your path:
 
-  1. Practice one round      →  say: spar with me
+  1. Practice one round      →  type: /spar
   2. Send your First Five    →  /morning  (paste today's raised hands)
   3. Log tonight             →  /scoreboard
   4. Tomorrow and every day  →  /morning in the morning, /scoreboard at night

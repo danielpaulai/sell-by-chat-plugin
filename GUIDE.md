@@ -81,7 +81,7 @@ OUTPUT: one markdown file called VOICE-DNA.md, all 8 sections plus WRITE LIKE ME
 | `/pipeline` | Where every chat stands. "Move Sarah to booked." "Who needs what today?" |
 | `/chat-ladder` | Draws the six-step method as The Chat Ladder visual in The Studio. |
 | `/first-week` | Just starting? The gentle 7-day ramp from 5 to 25 starts a day. |
-| "spar with me" | A practice partner plays your exact prospect, then scores you. Practice before real sends. |
+| /spar | A practice partner plays your exact prospect, then scores you. Practice before real sends. |
 
 ## 4. Which platform? All of them
 
