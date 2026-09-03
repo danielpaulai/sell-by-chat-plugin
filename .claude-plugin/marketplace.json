@@ -9,6 +9,11 @@
       "name": "sell-by-chat",
       "source": "./plugins/sell-by-chat",
       "description": "Your daily conversation engine: 25 warm chat starts, coached replies, follow-up sweeps and hand-raising posts, all in your own voice."
+    },
+    {
+      "name": "lead-magnet",
+      "source": "./plugins/lead-magnet",
+      "description": "The lead magnet factory (Tiny Win Method): research real splinters with Apify, run the five moves, then ship the actual branded magnet file, landing kit, 5-email Seven-Day Echo and DM scripts. Eight magnet formats plus the launch runway calendar."
     }
   ]
 }
